@@ -1,0 +1,103 @@
+
+.template{
+    width: 80%;
+    margin: auto;
+}
+.header{
+    color: white;
+    background: #0d6efd;
+}
+
+.img{
+    width: 62%;
+    margin-top: -10px;
+}
+
+.service{
+    color: #3ad3f2;
+    border: 4px solid #3ad3f2;
+    font-weight: 100;
+    padding: 5px;
+    
+}
+
+.text{
+    text-align: justify;
+}
+
+.text-2{
+    text-align: center;
+    display: block;
+}
+
+.text-3{
+color: #ffc108;
+}
+
+.text-4{
+    color: #3fd4f2;
+}
+
+.text-5{
+    color: #408cfd;
+}
+
+/* This is Service */
+.service-2{
+    width: 80%;
+    margin: auto;
+}
+
+.website{
+    font-size: 30px;
+    background: #7d4b4b;
+    color: white;
+    display: inline-block;
+    padding: 50px;
+    border-radius: 0px 50px 50px 0px;
+}
+
+.seo{
+    font-size: 30px;
+    background: #4f7d4b;
+    width: 300px;
+    color: white;
+    display: inline-block;
+    padding: 50px;
+    border-radius: 50px 0px 0px 50px;
+}
+
+.seo-1{
+    text-align: right;
+}
+
+.Optimization{
+    font-size: 30px;
+    background: #38139f;
+    color: white;
+    width: 38%;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 0px 50px 50px 0px;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+}
+
+ .submit{
+    color: white;
+    background: #0d6efd;
+    width: 80px;
+    height: 40px;
+    border: 2px solid #0d6efd;
+    border-radius: 4px;
+ }
+
+ .fotter{
+    text-align: center;
+    background: #212529;
+    color: white;
+    padding: 20px;
+ }
